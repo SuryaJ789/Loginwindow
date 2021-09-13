@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Login_page_2</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="25-258747_mobile-3d-wallpaper-hd-1080p-free-download.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="25-258747_mobile-3d-wallpaper-hd-1080p-free-download.jpg" />
+  </ItemGroup>
+
+</Project>
